@@ -29,7 +29,7 @@ We are not just a consultancy — we are builders. Our work spans strategy, impl
 
 ## 👥 Founders
 
-### Ifenyinwa Nwabueze — Co-Founder & Principal Consultant
+### Ifenyinwa Nwabueze — Co-Founder & CEO
 A seasoned technology and data professional with deep expertise in analytics, digital transformation, and data strategy. Ifenyinwa has led complex transformation engagements across private and public-sector organisations, bringing a rare combination of technical rigour and strategic clarity to every client partnership.
 
 ### Ifeoma Egbogah — Co-Founder & Director of Operations
