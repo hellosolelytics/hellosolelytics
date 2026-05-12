@@ -1,4 +1,4 @@
-# Solelytics Ltd
+# Solelytics Consultancy Ltd
 
 **Data. Analytics. Transformation.**
 
